@@ -1,0 +1,3 @@
+{:ns-groups [{:pattern "io\\.github\\.clechasseur\\.adventofcode\\.test\\..+"
+              :name test-namespaces}]
+ :config-in-ns {test-namespaces {:linters {:refer-all {:level :off}}}}}

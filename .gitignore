@@ -1,0 +1,17 @@
+.DS_Store
+/target
+/classes
+/checkouts
+profiles.clj
+pom.xml
+pom.xml.asc
+*.iml
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+/.prepl-port
+.cpcache/
+.idea/
+.clj-kondo/.cache/
+.lsp/
